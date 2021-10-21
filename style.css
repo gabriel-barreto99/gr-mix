@@ -264,6 +264,7 @@ header{
 .projetos{
     display: flex;
     justify-content: space-evenly;
+    min-width: 400;
 }
 
 .card{
